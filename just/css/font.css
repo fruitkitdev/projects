@@ -1,0 +1,61 @@
+@font-face 
+{
+    font-family: Opensans; /* Имя шрифта */
+    src: url(../fonts/Open-sans.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: Segoe; /* Имя шрифта */
+    src: url(../fonts/Segoe.ttf); /* Путь к файлу со шрифтом */
+}
+
+
+@font-face 
+{
+    font-family: SF-Bold; /* Имя шрифта */
+    src: url(../fonts/SF-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Heavy; /* Имя шрифта */
+    src: url(../fonts/SF-Heavy.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Black; /* Имя шрифта */
+    src: url(../fonts/SF-Black.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Thin; /* Имя шрифта */
+    src: url(../fonts/SF-Thin.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Ulight; /* Имя шрифта */
+    src: url(../fonts/SF-Ulight.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Light; /* Имя шрифта */
+    src: url(../fonts/SF-Light.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Medium; /* Имя шрифта */
+    src: url(../fonts/SF-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face 
+{
+    font-family: SF-Regular; /* Имя шрифта */
+    src: url(../fonts/SF-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+

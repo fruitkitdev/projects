@@ -1,0 +1,59 @@
+@media only screen and (max-width: 1169px)
+{
+    
+    .container { width: 1024px; }
+    header nav a { margin: 20px; }
+    
+    .edu section { width: 230px; height: 230px; }
+    .edu section h4 { width: 220px; }
+    .preim section { font-size: 15pt; }
+}
+
+@media only screen and (max-width: 1023px)
+{
+    .container { width: 768px; }
+    header nav { display: none; }
+    .promo h1 { font-size: 40pt; }
+    .promo h1 span { font-size: 18pt; }
+    .edu section { width: 270px; height: 270px; margin: 15px 30px; }
+    .edu section h4 { width: 260px; }
+    .preim section { font-size: 15pt; }
+    .preim section span { width: 25px; padding: 12px; }
+    .portfolio section { width: 30%; }
+    .success { width: 50%; }
+    .success h4 { font-size: 15pt; }
+}
+
+@media only screen and (max-width: 767px)
+{
+    .container { width: 568px; }
+    header nav { display: none; }
+    .promo h1 { font-size: 40pt; }
+    .promo h1 span { font-size: 22pt; line-height: 1em; }
+    .edu section { width: 370px; height: 370px; margin: 15px 0px; }
+    .edu section h4 { width: 360px; }
+    .preim section { font-size: 15pt; text-align: center; }
+    .preim section span { margin: auto; display: block; width: 25px; padding: 12px; }
+    .portfolio section { width: 49%; }
+    .port_modal { height: 300px; margin-top: -150px; }
+}
+
+@media only screen and (max-width: 567px)
+{
+    h3 { font-size: 24pt; }
+    .container { width: 320px; }
+    header nav { display: none; }
+    .soc { padding-left: 0px; width: 110px; }
+    .promo h1 { font-size: 28pt; }
+    .promo h1 span { font-size: 14pt; line-height: 1em; }
+    .promo a { top: 300px; }
+    .edu section { width: 270px; height: 270px; }
+    .edu section h4 { width: 260px; }
+    .preim section { font-size: 15pt;  }
+    .preim section span {  width: 25px; padding: 12px; }
+    .portfolio section { width: 99%; }
+    footer section { width: 300px; }
+    footer h4 { margin: auto; width: 240px; }
+    .success { width: 80%; }
+    
+}
